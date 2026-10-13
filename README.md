@@ -1,6 +1,6 @@
 # derek zhang
 
-Computer Engineering. 
+Computer Engineering 
  - ML + embedded
 
 python · java · c++ · pytorch · raspberry pi · arduino
