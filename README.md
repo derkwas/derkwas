@@ -1,4 +1,4 @@
-# derek zhang
+# derek
 
 Computer Engineering 
  - ML + embedded
